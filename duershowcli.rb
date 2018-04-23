@@ -2,11 +2,11 @@
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Duershowcli < Formula
-  desc "duershow cli"
-  homepages ""
+  desc "duershow cli tool"
+  homepage ""
   version "0.0.1"
   url "https://github.com/lsxiao/homebrew-tap/blob/master/duershowcli-0.0.1.zip?raw=true"
-  sha256 "1d835acb0bc65e0a5f0610fab8b1a681f0daf1ef452bcf3c32ea59cba78f4e99"
+  sha256 "2cbdbf0dc4f9e22fb878fbe7114a2915c8f1e96f405f44d8c81dc445293fdf0f"
   # depends_on "cmake" => :build
 
   def install
