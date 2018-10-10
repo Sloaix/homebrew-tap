@@ -3,7 +3,7 @@ class Duershowcli < Formula
   homepage ""
   version "0.0.6"
   url "https://github.com/lsxiao/homebrew-tap/blob/master/duershowcli-0.0.6.zip?raw=true"
-  sha256 "38646bcb5dc1410dcaf4157d09a3cc59cb47ff8ebc64513bce1e96b47ab22952"
+  sha256 "17475de45dcb7b644cfd83c21c7ec21ab612da445cc6c77f268d0f4994c0651c"
 
   def install
     bin.install "duer"
